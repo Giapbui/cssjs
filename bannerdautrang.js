@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://q7saigon.blogspot.com/' target='_blank'><img src='https://2.bp.blogspot.com/-2-z0lGVPX9U/WzYbqFh61zI/AAAAAAAAIPM/lLlENxsNMzECpflbgESOU2MSVq2r3CKCACLcBGAs/s1600/0b6378ba270dc953901c.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://q7saigon.blogspot.com/' target='_blank'><img src='https://2.bp.blogspot.com/-2-z0lGVPX9U/WzYbqFh61zI/AAAAAAAAIPM/lLlENxsNMzECpflbgESOU2MSVq2r3CKCACLcBGAs/s1600/0b6378ba270dc953901c.jpg' width='500px'/><br/>Phân phối dự án Q7 Sài Gòn Riverside</a>. Liên hệ: 0968210090. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
